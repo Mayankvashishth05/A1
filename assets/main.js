@@ -24,7 +24,8 @@
             { title: "Spoof Serum Poster", category: "Advertisement", img: "assets/portfolio/Serum.webp", desc: "Minimalist and luxurious product showcase for a conceptual beauty serum." },
             { title: "Business Card", category: "Brand Kit", img: "assets/portfolio/Business Card.webp", desc: "Premium textured business card design for corporate executives." },
             { title: "Buds", category: "Product Render", img: "assets/portfolio/Buds.webp", desc: "High-contrast promotional visual for wireless earbuds targeting audiophiles." },
-           { title: "Headphones", category: "Advertisement", img: "assets/portfolio/Headphones.webp", desc: "High-contrast promotional visual for Gaming RGB Headphones targeting Gamers." }
+           { title: "Headphones", category: "Advertisement", img: "assets/portfolio/Headphones.webp", desc: "High-contrast promotional visual for Gaming RGB Headphones targeting Gamers." },
+           { title: "Post Mockup", category: "Social Media", img: "assets/portfolio/Post Mockup.webp", desc: "High-contrast promotional visual for a local cafe Instagram." }
         ];
 
         const faqData = [
