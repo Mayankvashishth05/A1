@@ -16,7 +16,7 @@
             { icon: 'pen-tool', title: 'Logos', price: 'Rs 499–999+', desc: 'Unique, memorable and versatile logo designs.' }
         ];
 
-        const portfolioData = [
+        const portfolioData = [ 
             { title: "Burger Promotion Poster", category: "Poster Design", img: "assets/portfolio/Burger.webp", desc: "A vibrant and appetizing poster created for a local burger joint's weekend promotion." },
             { title: "boAt Watch", category: "Advertisement", img: "assets/portfolio/Boat.webp", desc: "Speculative ad concept highlighting the sleek design of a modern smartwatch." },
             { title: "Mamaearth Facewash Poster", category: "Social Media", img: "assets/portfolio/Mamaearth.webp", desc: "Clean and nature-inspired promotional graphic for organic skincare products." },
@@ -25,6 +25,7 @@
             { title: "Business Card", category: "Brand Kit", img: "assets/portfolio/Business Card.webp", desc: "Premium textured business card design for corporate executives." },
             { title: "Buds", category: "Product Render", img: "assets/portfolio/Buds.webp", desc: "High-contrast promotional visual for wireless earbuds targeting audiophiles." },
            { title: "Headphones", category: "Advertisement", img: "assets/portfolio/Headphones.webp", desc: "High-contrast promotional visual for Gaming RGB Headphones targeting Gamers." }
+           { title: "Post Mockup", category: "Social Media", img: "assets/portfolio/Post Mockup.webp", desc: "High-contrast promotional visual for a local cafe Instagram." }
         ];
 
         const faqData = [
