@@ -25,7 +25,7 @@
             { title: "Business Card", category: "Brand Kit", img: "assets/portfolio/Business Card.webp", desc: "Premium textured business card design for corporate executives." },
             { title: "Buds", category: "Product Render", img: "assets/portfolio/Buds.webp", desc: "High-contrast promotional visual for wireless earbuds targeting audiophiles." },
            { title: "Headphones", category: "Advertisement", img: "assets/portfolio/Headphones.webp", desc: "High-contrast promotional visual for Gaming RGB Headphones targeting Gamers." },
-           { title: "Post Mockup", category: "Social Media", img: "assets/portfolio/Post Mockup.webp", desc: "High-contrast promotional visual for a local cafe Instagram." }
+           { title: "Meal Promo", category: "Social Media", img: "assets/portfolio/Meal.webp", desc: "High-contrast promotional visual for a cafe Instagram." }
         ];
 
         const faqData = [
@@ -39,13 +39,12 @@
             { q: "Can you print the designs as well?", a: "Currently, we operate purely as a digital design studio. We provide print-ready files (CMYK, high-resolution PDFs) that you can take to any local or online printer." },
             { q: "Do you offer website design?", a: "While our core focus is graphic branding, we do offer UI/UX web design as custom projects. Please select 'Custom Project' in the contact form to discuss." },
             { q: "Who owns the copyright to the final designs?", a: "Upon final payment, full copyright ownership of the final approved designs is transferred to you." },
-            { q: "Can I upgrade my package later?", a: "Absolutely. If you start with a Starter package and realize you need more assets, we can easily upgrade you to Business or Premium." },
-            { q: "Do you design in languages other than English?", a: "Yes, provided you supply the translated text, we can design layouts that accommodate various languages and scripts." }
+            { q: "Can I upgrade my package later?", a: "Absolutely. If you start with a Starter package and realize you need more assets, we can easily upgrade you to Business or Premium." }
         ];
 
         const testimonialsData = [
             { name: "Bhuvnesh Pasrija", role: "Founder, Maurwin", text: "Hi everyone, Yesterday (20/09/2025) we talked with Mr. Mayank for our logo work. From yesterday night he starts doing working on logo work with all the details we provided to him. When the outcome comes in front of us is really very impressive. He is really very Hard working and passionate about his work. Keep it up 👍", rating: 5 },
-            { name: "Priya Sharma", role: "Independent", text: "Perfect work ; amazing studio and extraordinary team!! Extremely happy with their service 💯 ", rating: 5 },
+            { name: "Samarth Sharma", role: "Independent", text: "Working with Niorpixel was honestly stress free. they were quick to response, open to feedback, and delivered exactly what they promised. definately recommend Niorpixel to others.", rating: 5 },
             { name: "Arjit Sharma", role: "Brand Operator", text: "Honestly, working with Niorpixel was a really smooth experience. I didn’t have to explain things again and again—they understood what I wanted pretty quickly. The final design looked clean and professional. Would definitely work with them again.", rating: 5 },
             { name: "Ronit Rathee", role: "Influencer", text: "Great work and with a good creative mindset. Person is very creative and trusted everyone should use this to create a better design and creativity. I like the work. Person is very hardworking and very trusted and a good knowledge about the work. Everyone should use this firm to make their creative mind in reality.", rating: 5 }
         ];
